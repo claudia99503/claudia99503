@@ -17,9 +17,4 @@
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-  <a href="https://github.com/claudia99503/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=claudia99503" />
-</a>
-<a href="https://github.com/claudia99503/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=claudia99503&layout=compact&langs_count=8&card_width=320" />
-</a>
+
