@@ -28,6 +28,3 @@
 ### Tools
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-
-[![github stats](https://github-readme-stats.vercel.app/api?username=claudia99503&show_icons=true&hide_border=true&count_private=true&text_color=000000)](https://github.com/claudia99503)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudia99503&layout=compact&hide=Shell&text_color=000000)](https://github.com/claudia99503)
