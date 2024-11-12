@@ -8,11 +8,12 @@
 ## 💼 Projects
 | **Title** | **Type** | **Period** | **Links** |
 |---|---|---|---|
-|[View My Startup](https://github.com/ViewMyStartup/view-my-startup)|Team Project|2024.08.13 ~ 2024.09.02|[Website](https://view-my-startup-company.netlify.app/) / [GitHub](https://github.com/ViewMyStartup/view-my-startup)|
+|[View My Startup](https://github.com/ViewMyStartup/view-my-startup)|Team Project|2024.08.13 ~ 2024.09.02|[Website](https://view-my-startup.vercel.app/) / [GitHub](https://github.com/ViewMyStartup/view-my-startup)|
 |[Docthru](https://github.com/Docthru/docthru-fe)|Team Project|2024.10.08 ~ 2024.10.31|[Website](https://docthru.vercel.app/) / [GitHub](https://github.com/Docthru/docthru-fe)|
 
 <br>
 
+<!--
 ## 🛠️ Tech Stacks
 
 ### Frontend
@@ -27,3 +28,4 @@
 ### Database
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+-->
