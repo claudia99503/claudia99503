@@ -10,6 +10,8 @@
 |---|---|---|---|
 |[View My Startup](https://github.com/ViewMyStartup/view-my-startup)|Team Project|2024.08.13 ~ 2024.09.02|[Website](https://view-my-startup.vercel.app/) / [GitHub](https://github.com/ViewMyStartup/view-my-startup)|
 |[Docthru](https://github.com/Docthru/docthru-fe)|Team Project|2024.10.08 ~ 2024.10.31|[Website](https://docthru.vercel.app/) / [GitHub](https://github.com/Docthru/docthru-fe)|
+|[Moving](https://github.com/moving-team/moving-fe)|Team Project|2024.11.25 ~ 2025.01.13|[Website](https://github.com/moving-team/moving-fe) / [GitHub](https://github.com/moving-team/moving-fe)|
+
 
 <br>
 
